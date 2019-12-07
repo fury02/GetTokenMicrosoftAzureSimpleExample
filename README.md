@@ -1,3 +1,3 @@
-# A simple example of obtaining an authorization token
-# copy appsettings.json in \bin\Debug
-# register apps in https://portal.azure.com/ and add in appsettings.json "ClientId": "xxxxxx-xxxxxxx-xxxx-xxxxx-xxxxxxxxx",
+# A simple example of obtaining an authorization token. HuhahaHahuhu 
+# 1! copy appsettings.json in \bin\Debug
+# 2! register apps in https://portal.azure.com/ and add in appsettings.json "ClientId": "xxxxxx-xxxxxxx-xxxx-xxxxx-xxxxxxxxx",
