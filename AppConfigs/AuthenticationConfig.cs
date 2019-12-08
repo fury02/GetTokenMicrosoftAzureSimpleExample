@@ -36,8 +36,6 @@ namespace ConsoleOneDriveNetFramework.AppConfigs
 
                 configuration = builder.Build();
 
-                loggingConsole.ConsoleWrite("");
-
                 return configuration.Get<AuthenticationConfig>();
             }
 
