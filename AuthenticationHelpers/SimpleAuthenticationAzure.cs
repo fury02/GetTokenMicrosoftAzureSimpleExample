@@ -40,6 +40,7 @@ namespace ConsoleOneDriveNetFramework.AuthenticationHelpers
             catch (Exception exception)
             {
                 loggingConsole.ConsoleWrite(exception.StackTrace);
+                
                 return null;
             }
             
