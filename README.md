@@ -5,4 +5,4 @@
 # 3! add permissions in Apps (for example - GetTokenMicrosoftAzureSimpleExample) https://portal.azure.com/ columm: "API permissions" on 
 # permission Files.ReadWrite; Mail.Send; User.Read;
 -----------------------------------------------------------------------------------------------------------------------------------------
-# PS. Huhaha-Hahuhu 
+ 
